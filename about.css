@@ -1,0 +1,57 @@
+.navbar {
+    width: 100%;
+
+    border: 2px solid;
+    border-radius: 33px;
+    background-color: black;
+    margin: -1px;
+    padding: 0px;
+
+    float: right;
+}
+
+a {
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 3px 203px;
+   text-decoration: none;
+}
+table {
+    border: 2px solid black;
+}
+
+td {
+    border: 1px solid black;
+    padding: 33px;
+}
+
+section{
+text-align: center
+
+;
+}
+ul{
+text-decoration: none;
+}
+h1{
+text-align: center;
+padding: 16px 0px ;
+margin: 8px 7px;
+}
+body{
+    background-image: url("image2.jpg");
+}
+section{
+color: aliceblue;
+}
+    
+a:hover{
+    
+        background-color: skyblue;
+        border: 1px solid transparent;
+      border-radius: 22px ;
+    }
+p{
+    font-family: cursive;
+}

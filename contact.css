@@ -1,0 +1,65 @@
+body {
+    background-image: url("./contact-us-2993000.jpg");
+}
+
+.navbar {
+    width: 100%;
+
+    border: 2px solid;
+    border-radius: 33px;
+    background-color: black;
+    margin: -1px;
+    padding: 0px;
+
+    float: right;
+}
+
+.first {
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 3px 209px;
+    text-decoration: none;
+}
+
+table {
+    margin: 1px auto;
+    padding: 72px 0px;
+
+}
+
+tr {
+    border: 1px solid black;
+    margin: 0px 0px;
+    padding: 0px 0px;
+
+
+}
+
+td {
+    border: 1px solid black;
+    margin: 0px 0px;
+    padding: 0px 0px;
+    color: white;
+}
+
+strong {
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+
+p {
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+
+a {
+    margin: 3px 0px;
+    padding: 0px 0px;
+}
+
+a:hover{
+    background-color: skyblue;
+    border: 1px solid transparent;
+  border-radius: 22px ;
+}
